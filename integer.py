@@ -1,4 +1,4 @@
 import math
 import random
 def return_integer():
-    return random.randint(11,100)
+    return random.randint(1,10)
